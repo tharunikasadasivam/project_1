@@ -4,6 +4,8 @@ A complete end-to-end data analysis project that generates a synthetic student d
 performs statistical analysis, runs SQL queries, and produces 10 professional visualizations
 with an interactive HTML dashboard.
 
+# APP LINK : https://project1-rgzrshejubj6gwrhp5xhlu.streamlit.app/
+
 ---
 
 ## 🚀 Features
