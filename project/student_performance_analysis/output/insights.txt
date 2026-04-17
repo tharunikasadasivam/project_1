@@ -1,0 +1,11 @@
+STUDENT PERFORMANCE — KEY INSIGHTS
+=============================================
+
+✅ Overall pass rate: 62.4%
+📈 Highest avg subject: History (43.63)
+📉 Lowest avg subject : CS (42.77)
+📚 Study hours ↔ Score correlation: 0.839
+🏫 Avg score (attendance ≥85%): 46.3 vs (<60%): 37.6
+👤 Female avg score: 43.99
+👤 Male avg score: 42.31
+🌐 Internet (Yes/No) avg: 42.8 / 45.4
